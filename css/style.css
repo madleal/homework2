@@ -1,0 +1,28 @@
+header, footer{
+	font-family: courier;
+}
+
+nav a {
+	color:purple;
+	font-family: courier;
+	text-decoration: none;
+}
+.current{
+	text-transform: uppercase;
+	border: 3px solid black
+}
+
+nav li {
+	margin: 1%;
+	padding: 1%;
+	display: inline-block;
+	background: transparent;
+	width: 15%;
+}
+
+section{
+	border: 1px solid black;
+	margin-top: 20px;
+	padding: 10px;
+}
+
